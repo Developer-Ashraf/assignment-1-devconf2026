@@ -1,0 +1,19 @@
+I am making a DevConf 2026 landing page using HTML and CSS. There is an empty placeholder section that I need to replace with a new section. Please create a unique section that matches the developer conference theme. Use semantic HTML and simple CSS. The design should look modern and match the rest of the website. I have attached my requirements for your understanding. 
+
+this is my requirements
+
+"
+This is the only section where AI usage is expected and encouraged.
+
+Replace the "Something Missing? Generate a relevant section with AI" placeholder with a brand-new section of your own idea.
+
+The section must stay relevant to the DevConf 2026 theme (e.g. Sponsors, Venue, FAQ, Newsletter Signup, Hackathon Details, Past Highlights, Job Board, etc.).
+
+Use AI (Claude, ChatGPT, or any tool) to help you ideate, design, and/or code this section.
+
+Marks will be given based on:
+
+How unique and creative the section idea is
+How well it fits visually and thematically with the rest of the page
+How effectively you used AI (clarity and quality of your prompting)
+You must submit the prompt(s) you used to generate this section along with your submission (see Submission Format below).

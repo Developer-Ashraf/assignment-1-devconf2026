@@ -332,7 +332,27 @@ ul.nav-main-menu li a:hover {
 .footer-logo p {
     font-size: 14px;
     line-height: 1.3rem;
+    margin-bottom: 15px;
 }
+.footer-social-links {
+    display:flex;
+    gap:14px;
+}
+.footer-social-links a {
+    width:42px;
+    height:42px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius:50%;
+    background:#1f2937;
+    color:#fff;
+    transition:.3s;
+}
+.footer-social-links a:hover{
+    background:#2563eb;
+}
+
 .footer-col h3 {
     font-size: 18px;
     margin-bottom: 5px;

@@ -111,3 +111,129 @@ ul.nav-main-menu li a:hover {
     font-weight: 400;
     line-height: 22px;
 }
+
+/* pricing-seciton */
+
+.pricing-seciton {
+    padding: 100px 0px;
+}
+.section-pricing-header {
+    text-align: center;
+    margin-bottom: 48px;
+}
+.section-pricing-header h2{
+    font-size:48px;
+    font-weight:700;
+    margin-bottom:12px;
+}
+
+.pricing-wrapper-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.pricing-card{
+    background:#ffffff;
+    border: 1px solid #E5E7EB;
+    padding: 32px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.pricing-header {
+    padding-bottom: 20px;
+}
+.pricing-header span {
+    color: #888888;
+    font-size: 13px;
+    font-weight: 600;
+}
+.pricing-header h3 {
+    color: #0D1B2A;
+    font-size: 44px;
+}
+.pricing-header p {
+    color: #888888;
+    font-size: 13px;
+}
+
+.pricing-features {
+    padding: 20px 10px;
+    border-top: 1px solid #E5E7EB;
+}
+.pricing-features ul {
+    list-style-type: disc;
+}
+.pricing-features ul li::marker {
+    color: #2563EB;
+}
+
+.pricing-features li {
+    font-size: 14px;
+    color: #333333;
+    padding: 3px 0px;
+}
+
+.pricing-btn .btn {
+    border: 1px solid #2563EB;
+    background-color: transparent;
+    color: #2563EB;
+    width: 60%;
+    transition: .5s;
+}
+
+.pricing-btn .btn:hover {
+    background-color: #2563EB;
+    color: #ffffff;
+}
+
+
+.pricing-card.pro{
+    background:#0D1B2A;
+    border: 1px solid #0D1B2A;
+}
+
+.pricing-card.pro .pricing-header span {
+    color: #93C5FD;
+    font-size: 13px;
+    font-weight: 600;
+}
+.pricing-card.pro .pricing-header h3 {
+    color: #ffffff;
+    font-size: 44px;
+}
+.pricing-card.pro .pricing-header p {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.pricing-card.pro .pricing-features li {
+    font-size: 14px;
+    color: #CFD1D4;
+    padding: 3px 0px;
+}
+
+
+.pricing-card.pro .pricing-btn .btn {
+    border: 1px solid #2563EB;
+    background-color: #2563EB;
+    color: #ffffff;
+    width: 60%;
+    transition: .5s;
+}
+
+.pricing-card.pro .pricing-btn .btn:hover {
+    background-color: #ffffff;
+    color: #2563EB;
+}
+
+.pricing-card.team{
+    background:#F8F9FB;
+    border: 1px solid #E5E7EB;
+    padding: 32px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
